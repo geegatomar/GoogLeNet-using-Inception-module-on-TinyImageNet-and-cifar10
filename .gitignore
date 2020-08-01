@@ -1,0 +1,5 @@
+*.pickle
+*.json
+*.hdf5
+*.model
+*.cpickle
